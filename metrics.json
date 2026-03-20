@@ -1,0 +1,406 @@
+{
+  "file name" : "metrics.pdf",
+  "number of pages" : 1,
+  "author" : null,
+  "title" : null,
+  "creation date" : "D:20260320111411",
+  "modification date" : null,
+  "kids" : [ {
+    "type" : "image",
+    "id" : 2,
+    "page number" : 1,
+    "bounding box" : [ -1.023, -1.157, 961.22, 577.307 ],
+    "source" : "metrics_images/imageFile1.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 54,
+    "page number" : 1,
+    "bounding box" : [ 107.718, 549.4, 383.428, 561.07 ],
+    "font" : "MiloPro-Black",
+    "font size" : 10.0,
+    "text color" : "[0.5770046710968018, 0.5860074758529663, 0.5960021615028381]",
+    "content" : "EVERYDAY LIFE PLANET LIFE CONNECTED LIFE"
+  }, {
+    "type" : "heading",
+    "id" : 25,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 540.0, 442.471, 848.758, 490.471 ],
+    "heading level" : 3,
+    "font" : "MiloPro-Black",
+    "font size" : 24.0,
+    "text color" : "[0.9709926247596741, 0.6690012812614441, 0.16499580442905426]",
+    "content" : "Racial and Ethnic Breakdown of US Employees"
+  }, {
+    "type" : "paragraph",
+    "id" : 26,
+    "page number" : 1,
+    "bounding box" : [ 540.0, 431.655, 636.564, 445.035 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Manager and above"
+  }, {
+    "type" : "heading",
+    "id" : 28,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 540.0, 362.882, 622.854, 424.854 ],
+    "heading level" : 1,
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "29.6%"
+  }, {
+    "type" : "paragraph",
+    "id" : 52,
+    "page number" : 1,
+    "bounding box" : [ 59.424, 374.544, 216.491, 423.396 ],
+    "font" : "MiloPro-Black",
+    "font size" : 23.0,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "Workforce Representation"
+  }, {
+    "type" : "heading",
+    "id" : 13,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 59.424, 305.595, 309.288, 353.595 ],
+    "heading level" : 3,
+    "font" : "MiloPro-Black",
+    "font size" : 24.0,
+    "text color" : "[0.9709926247596741, 0.6690012812614441, 0.16499580442905426]",
+    "content" : "Women Representation of Global Employees"
+  }, {
+    "type" : "paragraph",
+    "id" : 27,
+    "page number" : 1,
+    "bounding box" : [ 540.0, 336.183, 597.108, 349.563 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Total BIPOC"
+  }, {
+    "type" : "heading",
+    "id" : 31,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 540.0, 274.458, 579.812, 322.458 ],
+    "heading level" : 2,
+    "font" : "Franchise-Bold",
+    "font size" : 48.0,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "11%"
+  }, {
+    "type" : "heading",
+    "id" : 33,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 626.908, 274.458, 678.446, 322.458 ],
+    "heading level" : 2,
+    "font" : "Franchise-Bold",
+    "font size" : 48.0,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "5.5%"
+  }, {
+    "type" : "heading",
+    "id" : 35,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 713.816, 274.458, 771.019, 322.458 ],
+    "heading level" : 2,
+    "font" : "Franchise-Bold",
+    "font size" : 48.0,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "11.5%"
+  }, {
+    "type" : "heading",
+    "id" : 38,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 800.724, 274.458, 848.697, 322.458 ],
+    "heading level" : 2,
+    "font" : "Franchise-Bold",
+    "font size" : 48.0,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "1.6%"
+  }, {
+    "type" : "heading",
+    "id" : 41,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 59.424, 238.254, 137.828, 300.226 ],
+    "heading level" : 1,
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "25.1%"
+  }, {
+    "type" : "heading",
+    "id" : 44,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 166.704, 238.254, 240.249, 300.226 ],
+    "heading level" : 1,
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "37.1%"
+  }, {
+    "type" : "heading",
+    "id" : 47,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 273.984, 238.254, 356.838, 300.226 ],
+    "heading level" : 1,
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "32.3%"
+  }, {
+    "type" : "paragraph",
+    "id" : 50,
+    "page number" : 1,
+    "bounding box" : [ 382.239, 238.254, 465.093, 300.226 ],
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "20.8%"
+  }, {
+    "type" : "paragraph",
+    "id" : 30,
+    "page number" : 1,
+    "bounding box" : [ 540.0, 244.792, 566.868, 258.172 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Asian"
+  }, {
+    "type" : "paragraph",
+    "id" : 32,
+    "page number" : 1,
+    "bounding box" : [ 626.908, 244.792, 652.804, 258.172 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Black"
+  }, {
+    "type" : "paragraph",
+    "id" : 34,
+    "page number" : 1,
+    "bounding box" : [ 713.816, 244.792, 791.768, 258.172 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Hispanic/LatinX"
+  }, {
+    "type" : "paragraph",
+    "id" : 37,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 800.724, 244.792, 828.804, 258.172 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Other"
+  }, {
+    "type" : "paragraph",
+    "id" : 46,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 273.984, 212.556, 366.792, 225.936 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Director and above"
+  }, {
+    "type" : "paragraph",
+    "id" : 49,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 382.239, 212.556, 482.211, 225.936 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Executive and above"
+  }, {
+    "type" : "paragraph",
+    "id" : 40,
+    "page number" : 1,
+    "bounding box" : [ 59.424, 197.552, 122.843, 224.936 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Total Women at All Levels"
+  }, {
+    "type" : "paragraph",
+    "id" : 43,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 166.704, 211.556, 263.268, 224.936 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Manager and above"
+  }, {
+    "type" : "heading",
+    "id" : 14,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 540.0, 165.003, 807.262, 213.003 ],
+    "heading level" : 3,
+    "font" : "MiloPro-Black",
+    "font size" : 24.0,
+    "text color" : "[0.9709926247596741, 0.6690012812614441, 0.16499580442905426]",
+    "content" : "Independent Board of Directors Representation"
+  }, {
+    "type" : "heading",
+    "id" : 3,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 59.424, 148.945, 182.064, 176.954 ],
+    "heading level" : 3,
+    "font" : "MiloPro-Black",
+    "font size" : 24.0,
+    "text color" : "[0.9709926247596741, 0.6690012812614441, 0.16499580442905426]",
+    "content" : "Age Groups"
+  }, {
+    "type" : "paragraph",
+    "id" : 15,
+    "page number" : 1,
+    "bounding box" : [ 540.0, 154.182, 605.616, 167.562 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Ten members"
+  }, {
+    "type" : "heading",
+    "id" : 5,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 59.424, 82.386, 137.777, 144.358 ],
+    "heading level" : 1,
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "15.8%"
+  }, {
+    "type" : "heading",
+    "id" : 8,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 166.704, 82.386, 249.558, 144.358 ],
+    "heading level" : 1,
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "60.5%"
+  }, {
+    "type" : "paragraph",
+    "id" : 11,
+    "page number" : 1,
+    "bounding box" : [ 273.984, 82.386, 353.616, 144.358 ],
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "23.7%"
+  }, {
+    "type" : "heading",
+    "id" : 17,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 540.0, 82.386, 601.424, 144.357 ],
+    "heading level" : 1,
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "40%"
+  }, {
+    "type" : "heading",
+    "id" : 20,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 647.28, 82.386, 707.733, 144.357 ],
+    "heading level" : 1,
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "20%"
+  }, {
+    "type" : "paragraph",
+    "id" : 23,
+    "page number" : 1,
+    "bounding box" : [ 754.56, 82.386, 826.827, 144.357 ],
+    "font" : "Franchise-Bold",
+    "font size" : 61.971,
+    "text color" : "[1.0, 0.43900206685066223, 0.08999770879745483]",
+    "content" : "100%"
+  }, {
+    "type" : "paragraph",
+    "id" : 4,
+    "page number" : 1,
+    "bounding box" : [ 59.424, 55.688, 151.56, 69.068 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Under 30 years old"
+  }, {
+    "type" : "paragraph",
+    "id" : 7,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 166.704, 55.688, 242.076, 69.068 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "30-50 years old"
+  }, {
+    "type" : "paragraph",
+    "id" : 10,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 273.984, 55.688, 359.628, 69.068 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Over 50 years old"
+  }, {
+    "type" : "paragraph",
+    "id" : 19,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 647.28, 55.688, 711.816, 69.068 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Ethnic/Racial"
+  }, {
+    "type" : "paragraph",
+    "id" : 22,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 754.56, 55.688, 840.204, 69.068 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Over 50 years old"
+  }, {
+    "type" : "paragraph",
+    "id" : 16,
+    "page number" : 1,
+    "bounding box" : [ 540.0, 55.686, 577.044, 69.066 ],
+    "font" : "MiloPro-Text",
+    "font size" : 12.0,
+    "text color" : "[0.3450064957141876, 0.3490043580532074, 0.35700008273124695]",
+    "content" : "Women"
+  }, {
+    "type" : "paragraph",
+    "id" : 1,
+    "page number" : 1,
+    "bounding box" : [ 19.188, 20.408, 30.108, 31.064 ],
+    "font" : "AdriannaExtended-DemiBold",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "18"
+  } ]
+}
